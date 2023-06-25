@@ -10,4 +10,5 @@
 
 .pole .navigation li:after {
   width: 8px;
+  border-radius: 5px;
 }
